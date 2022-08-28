@@ -2,10 +2,10 @@
 The UEFA Champions League is a tournament in which all of Europe's top clubs compete. This is an analysis of the 2021–2022 season. The dataset is gotten from Kaggle. It consists of eight different documents.
 
 ## Methodology
-#### Data Cleaning
-#### Data Modeling
-#### Data Analysis
-#### Data Visualization
+##### Data Cleaning
+##### Data Modeling
+##### Data Analysis
+##### Data Visualization
 
 #### Data Cleaning
 The duplicate data and blank cells were removed. Other necessary cleaning, such as cleaning the space on the cells and converting the data from upper and lower format to proper format, was done. The dataset was transformed from unstructured to structured and well formatted. Full documentation here :  https://ebenezeradebiyi.wixsite.com/laconic-data/post/my-fifth-data-analysis-project-analysis-of-uefa-champions-league
