@@ -9,7 +9,7 @@ The UEFA Champions League is UEFA's elite club competition, where the best teams
 
 #### Data Cleaning
 The duplicate data and blank cells were removed. Other necessary cleaning, such as cleaning the space on the cells and formatting the data by converting it from upper- and lower-case to proper-case format, The dataset was transformed from unstructured to structured and well-formatted.
-Full documentation here :  https://ebenezeradebiyi.wixsite.com/laconic-data/post/my-fifth-data-analysis-project-analysis-of-uefa-champions-league
+Full documentation here : https://ebenezeradebiyi.wixsite.com/laconic-data/post/my-fifth-data-analysis-project-analysis-of-uefa-champions-league
 
 #### Data Modeling
 The Power Pivot in Excel was used to create data modeling in such a way that the eight datasets are connectd together using the Player Name Column, which is the common column in all the datasets.
